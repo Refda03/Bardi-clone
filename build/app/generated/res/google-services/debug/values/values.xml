@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">741787806515-ro8kivg7vs4b7mou0dqgg8f9ii80emai.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">741787806515</string>
+    <string name="google_api_key" translatable="false">AIzaSyBbzZygbuNzocNQMUb1RVh_W4NGAu5U-m4</string>
+    <string name="google_app_id" translatable="false">1:741787806515:android:1e6eff3b0df4b32e1cac46</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBbzZygbuNzocNQMUb1RVh_W4NGAu5U-m4</string>
+    <string name="google_storage_bucket" translatable="false">ui-bardi.appspot.com</string>
+    <string name="project_id" translatable="false">ui-bardi</string>
+</resources>
